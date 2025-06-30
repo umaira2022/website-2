@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Billboard Graphic",
+    "section": "",
+    "text": "This graphic visualizes how the popularity of a selection of hit songs from the year 2000 evolved over time on the Billboard Hot 100 chart. Each line in the plot represents a song, showing its rank across the weeks it stayed on the chart. Lower values on the y-axis indicate better chart performance — for example, a rank of 1 means the song was number one that week.\nBy analyzing this visualization, we can observe how quickly certain songs climbed the charts, how long they stayed at the top, and how their popularity changed week by week."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
